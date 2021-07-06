@@ -10,7 +10,7 @@ setup(
     packages=find_packages(),
     python_requires='>=3.6',
     install_requires=[
-        "aiohttp==3.6.2",
+        "aiohttp==3.7.4",
         "aiormq==3.2.0",
         "motor==2.1.0",
         "ujson==1.35",
